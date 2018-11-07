@@ -1,0 +1,29 @@
+*{
+	text-align: center;
+}
+h1{
+	font-family: impact;
+	font-size: 60px;
+	color: black;
+}
+h2 {
+	font-family: impact;
+	font-size: 45px;
+	color: white;
+}
+img{
+	border: 12px white solid;
+	border-radius: 15px;
+}
+iframe{
+	border: 12px white solid;
+	border-radius: 15px;
+}
+
+a{
+	color: white;
+	font-size: 25px;
+	font-family: impact;
+}
+
+
